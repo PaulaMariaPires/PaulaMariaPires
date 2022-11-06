@@ -1,7 +1,7 @@
 ### Olá eu sou Paula Maria Pires :rose:
 
 
-- :book: Atualmete estudando Analise e Desenvolvimeto de Sistemas.. 
+- :book: Atualmete estudando Analise e Desenvolvimento de Sistemas 
 - 📫 How to reach me: pirespaulamaria@gmail.com
 
 <div align="center">
